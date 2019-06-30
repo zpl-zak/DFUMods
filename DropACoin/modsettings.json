@@ -1,0 +1,20 @@
+{
+    "Version": "1.0.0",
+    "Sections": [
+        {
+            "Name": "General",
+            "Description": null,
+            "IsAdvanced": false,
+            "Keys": [
+                {
+                    "Value": "G",
+                    "Name": "Hotkey",
+                    "Description": "Hotkey to toggle mount with",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.TextKey"
+                }
+            ],
+            "$version": "v1"
+        }
+    ]
+}

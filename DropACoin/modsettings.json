@@ -7,7 +7,7 @@
             "IsAdvanced": false,
             "Keys": [
                 {
-                    "Value": "G",
+                    "Value": "O",
                     "Name": "Hotkey",
                     "Description": "Hotkey to toggle mount with",
                     "$version": "v1",

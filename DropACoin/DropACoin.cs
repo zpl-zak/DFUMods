@@ -37,7 +37,7 @@ namespace DaggerfallMod
 
         void Update()
         {
-            if (Input.GetKeyDown(toggleKey))
+            if (GameManager.Instance.StateManager.CurrentState == StateManager.StateTypes.Game && Input.GetKeyDown(toggleKey))
             {
                 ItemCollection inventory = GameManager.Instance.PlayerEntity.Items;
 
